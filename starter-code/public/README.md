@@ -22,18 +22,37 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: CSS SMACCS Refactor
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 2:00
 
-Finish time: _____
+Finish time: 2:45
 
-Actual time needed to complete: _____
+Actual time needed to complete: 45 min
+```
+Number and name of feature: Modify contents round 1
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 3:00
+
+Finish time: 5:00
+
+Actual time needed to complete: 2 hours
+```
+Number and name of feature: Modify contents round 2
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 4:00
+
+Finish time: 2:45
+
+Actual time needed to complete: 45 min
 ```
 
-Add this information to your README.
 
 ### Feature #1: Refactor the CSS 
 
